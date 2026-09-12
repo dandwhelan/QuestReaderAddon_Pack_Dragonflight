@@ -1,4 +1,4 @@
-QuestReaderSoundLengths_Pack_Dragonflight = {
+SpeakStoneSoundLengths_Pack_Dragonflight = {
     ["38598_description.ogg"] = 18.86,
     ["44482_description.ogg"] = 27.65,
     ["45397_description.ogg"] = 28.08,
