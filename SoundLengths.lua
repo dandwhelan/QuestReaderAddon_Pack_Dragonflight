@@ -660,7 +660,6 @@ QuestReaderSoundLengths_Pack_Dragonflight = {
     ["66112_completion.ogg"] = 3.75,
     ["66112_description.ogg"] = 32.71,
     ["66112_progress.ogg"] = 6.13,
-    ["66113_description.ogg"] = 20.15,
     ["66114_completion.ogg"] = 6.21,
     ["66114_description.ogg"] = 10.80,
     ["66115_completion.ogg"] = 2.48,
