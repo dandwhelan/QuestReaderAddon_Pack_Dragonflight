@@ -3,7 +3,7 @@
 ## X-Wago-ID: kNM3JqKz
 ## Title: SpeakStone Narration - Dragonflight Voices
 ## Notes: Dragonflight quest audio for SpeakStone Narration. Requires SpeakStone_Main.
-## Author: clhammer weirdautomation@gmail.com, Paratus
+## Author: Nerf, SpeakStone@beanw.co.uk
 ## Version: 1.3
 
 ## RequiredDeps: SpeakStone_Main
